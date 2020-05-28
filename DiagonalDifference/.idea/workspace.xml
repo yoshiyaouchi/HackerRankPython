@@ -26,6 +26,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../MyPage/MyPage" />
   </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -69,6 +70,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1316" y="298" key="FileChooserDialogImpl" timestamp="1590364374980">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="1316" y="298" key="FileChooserDialogImpl/0.0.2048.1112@0.0.2048.1112" timestamp="1590364374980" />
     <state width="1001" height="305" key="GridCell.Tab.0.bottom" timestamp="1589859297402">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
