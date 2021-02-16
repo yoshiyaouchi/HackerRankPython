@@ -1,1 +1,13 @@
 This repository is used to keep all my HackerRank practices coded in Python.
+
+I recommend using VSCode as a main IDE for this project
+
+Instructions:
+
+1. Install VSCode
+
+2. Install Python extension in VSCode
+
+3. Install Pyright
+
+4. (Optional) Install Anaconda
